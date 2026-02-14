@@ -1,6 +1,3 @@
-# crypto-price-analytics-dashboard-airflow
-Data Engineering project: Crypto price ingestion pipeline. Orchestrates Binance API extraction, PostgreSQL storage, and Excel reporting with Apache Airflow.
-
 # Crypto ETL Pipeline
 
 Automated ETL pipeline that extracts cryptocurrency prices from Binance API, transforms and validates the data, and loads it into PostgreSQL. Orchestrated with Apache Airflow and containerized with Docker.
